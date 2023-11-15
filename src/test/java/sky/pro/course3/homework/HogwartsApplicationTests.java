@@ -9,5 +9,4 @@ class HogwartsApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
